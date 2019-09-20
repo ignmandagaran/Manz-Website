@@ -1,0 +1,20 @@
+@font-face {
+font-family: "Poppins Manz";
+src: url("../css/fonts/poppins-extraboldmanz-webfont.eot");
+src: 
+url("../css/fonts/poppins-extraboldmanz-webfont.woff") format("woff"),
+url("../css/fonts/Poppins-ExtraBoldManz.otf") format("opentype"),
+url("../css/fonts/poppins-extraboldmanz-webfont.svg") format("svg");
+}
+
+@font-face {
+font-family: "PT Sans Narrow";
+src: url("../css/fonts/PT_Sans-Narrow-Web-Regular.ttf");
+}
+
+@font-face {
+font-family: "PT Sans Narrow";
+font-weight: bold;
+font-display: swap;
+src: url("../css/fonts/PT_Sans-Narrow-Web-Bold.ttf");
+}
